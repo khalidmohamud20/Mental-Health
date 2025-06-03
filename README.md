@@ -1,6 +1,6 @@
 # MindSpace
 
-![MindSpace Hero Image](https://1drv.ms/u/c/b20f29baeb388f23/EYLNlEF_1_VFmltd_kxX8qgBpEpBWfbUsWBiuUx1v1gB2A?e=EJRMSR)
+![MindSpace Hero Image](https://raw.githubusercontent.com/khalidmohamud20/Mental-Health/refs/heads/main/images/hero%20image.avif)
 
 <p align="center">
   <a href="https://github.com/khalidmohamud20/Mental-Health?tab=readme-ov-file" target="_blank">Live Project</a> 
