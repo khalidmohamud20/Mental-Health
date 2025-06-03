@@ -73,16 +73,16 @@ To plan out the layout of MindSpace, I created wireframes showing how the websit
 
 ## Wireframes
 
-### Tablet Wireframes (3)
-![Tablet Wireframe](images/Tablet%20Wireframe.png)
-![Tablet Wireframe 2](images/Tablet%20Wireframe_2.png)
-![Tablet Wireframe (space)](images/Tablet%20Wireframe%20.png)
+### Desktop Wireframes (2)
+![Desktop Wireframe](images/Desktop%20Wireframe%20%20.png)
+![Desktop Wireframe 2](images/Desktop%20Wireframe%202%20.png)
 
 ### Mobile Wireframes (3)
-![Mobile Wireframe](images/Mobile%20Wireframe%20.png)
+![Mobile Wireframe 2](images/Mobile%20Wireframe%20_2.png)
 ![Mobile Wireframe 3](images/Mobile%20Wireframe%20_3.png)
-![Mobile Wireframe (duplicate)](images/Mobile%20Wireframe%20.png)
+![Mobile Wireframe 1](images/Mobile%20Wireframe1%20.png)
 
-### Desktop Wireframes (2)
-![Desktop Wireframe](images/Desktop%20Wireframe%20.png)
-![Desktop Wireframe (space)](images/Desktop%20Wireframe%20%20.png)
+### Tablet Wireframes (3)
+![Tablet Wireframe](images/Tablet%20Wireframe%20.png)
+![Tablet Wireframe 2](images/Tablet%20Wireframe%202.png)
+![Tablet Wireframe 3](images/Tablet%20Wireframe_3.png)
