@@ -190,6 +190,17 @@ To make sure everything works well, I tested the site in several ways:
 - ✅ Used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS  
 - ✅ Ran Lighthouse audits to assess performance, accessibility, and SEO  
 - ✅ Manually tested on desktop, mobile, and tablet using multiple browsers  
+### Lighthouse Report
+
+Below is the Lighthouse report showing strong performance across all key categories:
+
+![Lighthouse Report](images/lighthouse_report.png)
+
+- **Performance**: 100  
+- **Accessibility**: 93  
+- **Best Practices**: 100  
+- **SEO**: 91  
+
 
 ---
 
