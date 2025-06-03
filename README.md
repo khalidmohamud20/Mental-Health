@@ -84,101 +84,117 @@ To plan out the layout of MindSpace, I created wireframes showing how the websit
 ![Desktop Wireframe](images/Desktop%20Wireframe%20%20.png)
 ![Desktop Wireframe 2](images/Desktop%20Wireframe%202%20.png)
 
-Features
-Key Features
-Calm and welcoming homepage with clear navigation
+## Features
 
-Sections for mental health tips, resources, and contact options
+### Key Features
 
-Clean layout using Bootstrap cards for easy readability
+- Calm and welcoming homepage with clear navigation  
+- Dedicated sections for mental health tips, helpful resources, and contact options  
+- Clean, readable layout using Bootstrap cards for easy browsing  
+- Fully responsive design that works across mobile, tablet, and desktop  
+- Consistent colors and fonts chosen to feel safe, soft, and accessible  
 
-Responsive design for mobile, tablet, and desktop
+---
 
-Consistent colors and fonts chosen for comfort and accessibility
+### Navigation & Hero Section
 
-Navigation & Hero Section
-A fixed top navigation bar guides users smoothly through the site. The hero section welcomes users with a soft design and clear messaging.
+The top navigation bar is fixed for easy access across the page.  
+The hero section greets users with soft, welcoming visuals and a simple message to set a reassuring tone from the start.
 
-Footer
-A simple footer contains important links and contact info, using strong contrast to stand out clearly.
+---
 
-Responsive Design
-MindSpace is fully responsive. Whether on a phone, tablet, or desktop, the layout adjusts smoothly. This was achieved using Bootstrap's responsive grid and components.
+### Footer
 
-Screens were tested using:
+The footer is clean and easy to understand, offering contact information and quick links. The color contrast helps it stand out for easy identification on every page.
 
-Chrome DevTools
+---
 
-Am I Responsive
+## Responsive Design
 
-Real devices
+MindSpace was designed with responsiveness in mind. It adapts smoothly to different screen sizes using Bootstrap’s flexible grid system and layout components.
 
-Built With
-Languages: HTML5, CSS3
+**Responsiveness tested on:**
+- Chrome DevTools  
+- [Am I Responsive](https://ui.dev/amiresponsive)  
+- Real mobile and tablet devices  
 
-Frameworks & Tools:
+---
 
-Bootstrap 5
+## Built With
 
-Google Fonts
+### Languages
 
-Font Awesome
+- HTML5  
+- CSS3  
 
-Development Tools:
+### Frameworks & Libraries
 
-Git & GitHub
+- [Bootstrap 5](https://getbootstrap.com/)  
+- [Google Fonts](https://fonts.google.com/)  
+- [Font Awesome](https://fontawesome.com/)  
 
-Gitpod
+### Tools
 
-Balsamiq (wireframes)
+- Git & GitHub  
+- Gitpod (development environment)  
+- Balsamiq (wireframes)  
+- Chrome DevTools  
 
-Chrome DevTools
+---
 
-Deployment
-The site was developed and deployed using GitHub Pages:
+## Deployment
 
-Repo created using the Code Institute GitHub template
+The website was built and deployed using GitHub Pages:
 
-Project developed in Gitpod
+1. The repository was created using the Code Institute HTML/CSS template  
+2. Development took place in [Gitpod](https://gitpod.io/)  
+3. Code was committed and pushed regularly to GitHub  
+4. The live site was published via GitHub Pages from the main branch  
 
-Pushed to GitHub regularly with version tracking
+[Visit the live site here](#) <!-- Replace with your actual link -->
 
-Deployed via GitHub Pages under repository settings
+---
 
-Testing
-The site was tested using:
+## Testing
 
-W3C HTML Validator – to ensure clean HTML
+To ensure everything works smoothly, the site was tested in various ways:
 
-W3C CSS Validator – for valid CSS
+- ✅ [W3C HTML Validator](https://validator.w3.org/) – Checked for valid HTML  
+- ✅ [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) – Validated CSS for errors  
+- ✅ Lighthouse – Measured performance, accessibility, and SEO  
+- ✅ Manual testing – On desktop, mobile, and tablet using multiple browsers  
 
-Lighthouse (Chrome DevTools) – checked for performance and accessibility
+---
 
-Manual testing on multiple devices and browsers
+## Credits
 
-Credits
-Code
-Code Institute learning materials
+### Code
 
-Bootstrap docs
+- Code Institute – Project inspiration and course materials  
+- Bootstrap Documentation  
+- Font Awesome  
+- Google Fonts  
 
-Font Awesome icons
+---
 
-Google Fonts
+### Content
 
-Content
-Based on research from Mind.org.uk and NHS mental health guidance
+- Mental health guidance based on research from [Mind.org.uk](https://www.mind.org.uk) and NHS articles  
+- All written content is original and tailored to feel warm, clear, and supportive  
 
-Written in my own words to create a warm, supportive tone
+---
 
-Media
-All icons and illustrations are royalty-free or under Creative Commons
+### Media
 
-Wireframes made with Balsamiq
+- All icons and images used are royalty-free or under Creative Commons  
+- Wireframes created using [Balsamiq](https://balsamiq.com/)
 
-Acknowledgements
-Thanks to friends and peers for design feedback
+---
 
-Special thanks to Code Institute mentors and the Slack community
+## Acknowledgements
 
-And to everyone working to make mental health support easier to access 
+- Huge thanks to friends and peers for their honest design feedback  
+- Gratitude to the Code Institute mentors and Slack community  
+- And to anyone making mental health more open, human, and supported 
+
+---
