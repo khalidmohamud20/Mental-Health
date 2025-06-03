@@ -1,5 +1,12 @@
 # MindSpace
 
+![MindSpace Hero Image](https://1drv.ms/u/c/b20f29baeb388f23/EYLNlEF_1_VFmltd_kxX8qgBpEpBWfbUsWBiuUx1v1gB2A?e=EJRMSR)
+
+<p align="center">
+  <a href="https://github.com/khalidmohamud20/Mental-Health?tab=readme-ov-file" target="_blank">Live Project</a> 
+</p>
+
+
 ## Introduction
 
 MindSpace is a website created to support mental health and wellbeing. It’s a calm, welcoming space where users can find helpful resources, tips, and ways to reach out if they need support. The aim is to make something that feels easy to use, comforting, and supportive for anyone who visits. This project is part of my learning journey in web development—from planning and wireframing to coding with HTML and CSS.
