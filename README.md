@@ -67,15 +67,8 @@ The goal is to create a space where anyone—whether they’re just curious or l
 
 ## Wireframes
 
-## Wireframes
-
 To plan out the layout of MindSpace, I created wireframes showing how the website would look on different screen sizes. These helped me make sure the site would be clear, calm, and easy to use whether someone visits on their phone, tablet, or computer.
 
-## Wireframes
-
-### Desktop Wireframes (2)
-![Desktop Wireframe](images/Desktop%20Wireframe%20%20.png)
-![Desktop Wireframe 2](images/Desktop%20Wireframe%202%20.png)
 
 ### Mobile Wireframes (3)
 ![Mobile Wireframe 2](images/Mobile%20Wireframe%20_2.png)
@@ -86,3 +79,106 @@ To plan out the layout of MindSpace, I created wireframes showing how the websit
 ![Tablet Wireframe](images/Tablet%20Wireframe%20.png)
 ![Tablet Wireframe 2](images/Tablet%20Wireframe%202.png)
 ![Tablet Wireframe 3](images/Tablet%20Wireframe_3.png)
+
+### Desktop Wireframes (2)
+![Desktop Wireframe](images/Desktop%20Wireframe%20%20.png)
+![Desktop Wireframe 2](images/Desktop%20Wireframe%202%20.png)
+
+Features
+Key Features
+Calm and welcoming homepage with clear navigation
+
+Sections for mental health tips, resources, and contact options
+
+Clean layout using Bootstrap cards for easy readability
+
+Responsive design for mobile, tablet, and desktop
+
+Consistent colors and fonts chosen for comfort and accessibility
+
+Navigation & Hero Section
+A fixed top navigation bar guides users smoothly through the site. The hero section welcomes users with a soft design and clear messaging.
+
+Footer
+A simple footer contains important links and contact info, using strong contrast to stand out clearly.
+
+Responsive Design
+MindSpace is fully responsive. Whether on a phone, tablet, or desktop, the layout adjusts smoothly. This was achieved using Bootstrap's responsive grid and components.
+
+Screens were tested using:
+
+Chrome DevTools
+
+Am I Responsive
+
+Real devices
+
+Built With
+Languages: HTML5, CSS3
+
+Frameworks & Tools:
+
+Bootstrap 5
+
+Google Fonts
+
+Font Awesome
+
+Development Tools:
+
+Git & GitHub
+
+Gitpod
+
+Balsamiq (wireframes)
+
+Chrome DevTools
+
+Deployment
+The site was developed and deployed using GitHub Pages:
+
+Repo created using the Code Institute GitHub template
+
+Project developed in Gitpod
+
+Pushed to GitHub regularly with version tracking
+
+Deployed via GitHub Pages under repository settings
+
+Testing
+The site was tested using:
+
+W3C HTML Validator – to ensure clean HTML
+
+W3C CSS Validator – for valid CSS
+
+Lighthouse (Chrome DevTools) – checked for performance and accessibility
+
+Manual testing on multiple devices and browsers
+
+Credits
+Code
+Code Institute learning materials
+
+Bootstrap docs
+
+Font Awesome icons
+
+Google Fonts
+
+Content
+Based on research from Mind.org.uk and NHS mental health guidance
+
+Written in my own words to create a warm, supportive tone
+
+Media
+All icons and illustrations are royalty-free or under Creative Commons
+
+Wireframes made with Balsamiq
+
+Acknowledgements
+Thanks to friends and peers for design feedback
+
+Special thanks to Code Institute mentors and the Slack community
+
+And to everyone working to make mental health support easier to access 
