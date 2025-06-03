@@ -51,7 +51,7 @@ nav ul li a:hover {
 /* ======= Hero Section ======= */
 .hero {
   height: 60vh;
-  background-image: url('images/premium_photo-1672292536199-7a4cf2b78318.avif');
+  background-image: url('../images/hero.avif'); /* Corrected path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

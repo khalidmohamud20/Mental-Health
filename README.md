@@ -1,14 +1,15 @@
 # MindSpace
-
-![MindSpace Hero Image](https://raw.githubusercontent.com/khalidmohamud20/Mental-Health/main/images/hero%20image.avif)
-
 <p align="center">
   <a href="https://khalidmohamud20.github.io/Mental-Health/" target="_blank">Live Project</a> 
 </p>
 
 ## Introduction
 
-Welcome to MindSpace — a website I created to support mental health and wellbeing. My goal was to build a calm, welcoming space where users can find helpful resources, tips, and ways to reach out if they need support. I wanted to make something easy to use, comforting, and supportive for anyone who visits. This project is part of my journey learning web development — from planning and wireframing to coding with HTML and CSS.
+Welcome to MindSpace — a website I created to support mental health and wellbeing. 
+My goal was to build a calm, welcoming space where users can find helpful resources, tips,
+ and ways to reach out if they need support. I wanted to make something easy to use, comforting, 
+ and supportive for anyone who visits. This project is part of my journey learning web development — 
+ from planning and wireframing to coding with HTML and CSS.
 
 ---
 
@@ -21,7 +22,7 @@ Welcome to MindSpace — a website I created to support mental health and wellbe
 - User Stories  
 - Colors  
 - Fonts  
-- Wireframes  
+- Wireframes 
 
 ---
 
@@ -205,4 +206,3 @@ To make sure everything works well, I tested the site in several ways:
 - And to everyone working to make mental health more open, human, and supported  
 
 ---
-s
