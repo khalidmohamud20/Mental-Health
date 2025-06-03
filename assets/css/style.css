@@ -51,12 +51,12 @@ nav ul li a:hover {
 /* ======= Hero Section ======= */
 .hero {
   height: 60vh;
-  background-image: url('../images/hero.avif'); /* Corrected path */
+  background-image: url('../images/heronew.avif'); /* ✅ Updated path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin: 1rem 0;
   position: relative;
   display: flex;

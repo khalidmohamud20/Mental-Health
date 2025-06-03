@@ -23,6 +23,25 @@ My goal was to build a calm, welcoming space where users can find helpful resour
 - Colors  
 - Fonts  
 - Wireframes 
+- Features  
+  - General Features  
+  - Navigation and Hero Section  
+  - Bootstrap Cards  
+  - Policies Section  
+  - Footer  
+  - Links and Buttons  
+  - Responsive Design  
+- Built With  
+  - Technology and Languages  
+  - Libraries and Frameworks  
+  - Tools & Programs  
+- Development  
+- Testing  
+- Credits  
+  - Code  
+  - Content Research  
+  - Media  
+- Acknowledgements  
 
 ---
 
