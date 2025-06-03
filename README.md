@@ -67,5 +67,24 @@ The goal is to create a space where anyone—whether they’re just curious or l
 
 ## Wireframes
 
-*Add your wireframes here or link to them as images or files.*
-s
+## Wireframes
+
+To plan out the layout of MindSpace, I created wireframes showing how the website would look on different screen sizes. These helped me make sure the site would be clear, calm, and easy to use whether someone visits on their phone, tablet, or computer.
+
+
+### Wireframes
+## Wireframes
+
+### Mobile Wireframes
+![Mobile Wireframe 1](images/mobile_wireframe_1.png)
+![Mobile Wireframe 2](images/mobile_wireframe_2.png)
+![Mobile Wireframe 3](images/mobile_wireframe_3.png)
+
+### Tablet Wireframes
+![Tablet Wireframe 1](images/tablet_wireframe_1.png)
+![Tablet Wireframe 2](images/tablet_wireframe_2.png)
+![Tablet Wireframe 3](images/tablet_wireframe_3.png)
+
+### Desktop Wireframes
+![Desktop Wireframe 1](images/desktop_wireframe.png)
+![Desktop Wireframe 2](images/desktop_wireframe.png)
